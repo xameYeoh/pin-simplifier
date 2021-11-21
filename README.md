@@ -12,4 +12,5 @@ and implemented two counters for Vertical and Horizontal moving (if you go U the
 
 So based on this assumption, the input of LUUUUUUUDD would give me 1, as there are more U's, but it needs to be 7. 
 
-I will fix it as well till Friday, after my uni tests, but now I have to leave it as is, of which I am NOT proud of :( 
+I promise to myself I will fix it till Friday, after my uni tests, but now I have to leave it as is, of which I am NOT proud of :( ,
+because I have yet to prepare for test tomorrow.
